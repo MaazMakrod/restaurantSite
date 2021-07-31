@@ -1,10 +1,10 @@
 # restaurantSite
 
-This is a site that I have made using Bootstrap 4 and its features. If you would like to view the site read the instructions below or view the images attached! Please note that the menu page has not been created
+This is a site that I have made using Bootstrap 4 and its features. If you would like to view the site read the instructions below or view the images attached! Please note that the menu page has not been created.
 
 ## Download Instructions
 
-Clone the repository in a convinient location and navigate to it in your terminal or command prompt. Run the following command in your terminal window once you are in the right directory:
+Clone the repository in a convenient location and navigate to it in your terminal or command prompt. Run the following command in your terminal window once you are in the right directory:
 
 ```npm install```
 
