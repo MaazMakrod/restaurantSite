@@ -20,7 +20,7 @@ wait for your development server to load, and explore the site!
 
 ## Demo
 
-Take a look at the pictures below to see some images of the site or click [this link](https://maazmakrod.github.io/projects.html) and click 'Bootstrap Restaurant Site' to see a video!
+Take a look at the pictures below to see some images of the site or click [this link](https://maazmakrod.github.io/#projects) and click 'Bootstrap Restaurant Site' to see a video!
 
 ![image](https://user-images.githubusercontent.com/67477587/127752079-9aef6986-0d89-4b6d-abb8-3145b4ea03a6.png)
 ![image](https://user-images.githubusercontent.com/67477587/127752082-47eb057b-b0df-4fe8-a3f7-148b57201a87.png)
